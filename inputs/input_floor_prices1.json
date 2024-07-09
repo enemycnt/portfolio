@@ -1,0 +1,22 @@
+[
+  {
+    "time": 1,
+    "collection": "00bab93f-d301-42f5-b5a4-a829619ec286",
+    "floorPrice": 15.9
+  },
+  {
+    "time": 1,
+    "collection": "646c1f1e-9394-4ae4-8250-9dcd280566ee",
+    "floorPrice": 38
+  },
+  {
+    "time": 3,
+    "collection": "00bab93f-d301-42f5-b5a4-a829619ec286",
+    "floorPrice": 39
+  },
+  {
+    "time": 15,
+    "collection": "00bab93f-d301-42f5-b5a4-a829619ec286",
+    "floorPrice": 17
+  }
+]
